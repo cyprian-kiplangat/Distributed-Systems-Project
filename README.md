@@ -34,8 +34,8 @@ Before running this application, make sure you have:
 
 1. Clone the repository (if using Git):
    ```bash
-   git clone https://github.com/cyprian-kiplangat/Disttributed-Systems-Project.git
-   cd Disttributed-Systems-Project
+   git clone https://github.com/cyprian-kiplangat/Distributed-Systems-Project.git
+   cd Distributed-Systems-Project
    ```
 
 2. Install the required dependencies:
